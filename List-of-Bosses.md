@@ -1,50 +1,50 @@
 ## 1막
 
-- 아울베어 (Owlbear)
-- 위상거미 여왕 (Phase Spider Matriarch)
-- 코가 (Kagha)
-- 거트 여사제 (Priestess Gut)
-- 민타라 (Minthara)
-- 드로어 라그즐린 (Dror Ragzlin)
-- 에텔 할머니 (Auntie Ethel)
-- 스펙테이터 (Spectator)
-- 불레트 (Bulette)
-- 게크 코울 (Gekh Coal)
-- 글럿 군주 (Sovereign Glut)
-- 버나드 (Bernard)
-- 니어 (Nere)
-- 절망 (Grym)
-- 츠라이 워워가즈 (Ch'r'ai W'wargaz)
+- 아울베어
+- 위상거미 여왕
+- 코가
+- 거트 여사제
+- 민타라
+- 드로어 라그즐린
+- 에텔 할머니
+- 스펙테이터
+- 불레트
+- 게크 코울
+- 글럿 군주
+- 버나드
+- 니어
+- 절망
+- 츠라이 워워가즈
 
 ## 2막
 
-- 카르니스 (Kar'niss)
-- 게린고스 토름 (Gerringothe Thorm)
-- 티소발드 토름 (Thisobald Thorm)
-- 맬러스 토름 (Malus Thorm)
-- 그림자 저주에 걸린 꾸물거리는 흙더미 (Shadow-Cursed Shambling Mound)
-- 여르기어 (Yurgir)
-- 발타자르 (Balthazar)
-- 사도 저렐 (Disciple Z'rell)
-- 케더릭 토름 (Ketheric Thorm)
-- 머쿨의 사도 (Apostle of Myrkul)
-- 츠라이 츠카안 (Ch'r'ai Tska'an)
-- 고위 사제 리르익 (Prelate Lir'i'c)
+- 카르니스
+- 게린고스 토름
+- 티소발드 토름
+- 맬러스 토름
+- 그림자 저주에 걸린 꾸물거리는 흙더미
+- 여르기어
+- 발타자르
+- 사도 저렐
+- 케더릭 토름
+- 머쿨의 사도
+- 츠라이 츠카안
+- 고위 사제 리르익
 
 ## 3막
 
-- 츠라이 하르라크 (Ch'r'ai Har'rak)
-- 바이코니아 드비어 (Viconia DeVir)
-- 카사도어 (Cazador)
-- 로로아칸 (Lorroakan)
-- 안수르 (Ansur)
-- 프타리스 (Ptaris)
-- 미스틱 캐리언 (Mystic Carrion)
-- 아홉 손가락 킨 (Nine-Fingers Keene)
-- 라파엘 (Raphael)
-- 강철 감시자 타이탄 (Steel Watcher Titan)
-- 엔버 고타쉬 경 (Lord Enver Gortash)
-- 사레복 안체브 (Sarevok Anchev)
-- 오린 (Orin)
-- 지배당한 레드 드래곤 (Dominated Red Dragon)
-- 네더브레인 (The Netherbrain)
+- 츠라이 하르라크
+- 바이코니아 드비어
+- 카사도어
+- 로로아칸
+- 안수르
+- 프타리스
+- 미스틱 캐리언
+- 아홉 손가락 킨
+- 라파엘
+- 강철 감시자 타이탄
+- 엔버 고타쉬 경
+- 사레복 안체브
+- 오린
+- 지배당한 레드 드래곤
+- 네더브레인
